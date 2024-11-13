@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Contents:
-  -[Installation] (##Installation)
+  -[Installation](##Installation)
   -[Usage](##Usage)
   -[License](##License)
   -[Contacts](##Contacts)
@@ -52,7 +52,7 @@ function generateMarkdown(data) {
   ${data.installation}
 
   ## Usage
-  ${data.Usage}
+  ${data.usage}
 
   ## License
   ${renderLicenseSection(data.license)}

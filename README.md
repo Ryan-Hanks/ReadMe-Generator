@@ -5,16 +5,16 @@
   This is a programs that automatically generates a basic professional readme based on given information.
 
   ## Contents:
-  -[Installation] (##Installation)
+  -[Installation](##Installation)
   -[Usage](##Usage)
   -[License](##License)
   -[Contacts](##Contacts)
 
   ## Installation
-  You install it by cloning the github content and using (npm i) to    install all dependencies.
+  You install it by cloning the github content and using (npm i) to install all dependencies.
 
   ## Usage
-  undefined
+  You use it by typing (node index.js) and answering the provided questions which will then generate a readme.
 
   ## License
   No License
